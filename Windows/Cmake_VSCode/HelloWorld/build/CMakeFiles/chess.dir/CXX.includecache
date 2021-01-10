@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/utils.h
+iostream
+-
+
+E:/0_GitRepository/CppTest/src/main.cpp
+utils.h
+E:/0_GitRepository/CppTest/src/utils.h
+
+E:/0_GitRepository/CppTest/src/utils.cpp
+utils.h
+E:/0_GitRepository/CppTest/src/utils.h
+

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/0_GitRepository/CppTest/build",
+  "command": "g++ -DDEBUG @CMakeFiles/chess.dir/includes_CXX.rsp  -std=c++11  -O3 -Wall -o CMakeFiles\\chess.dir\\src\\main.cpp.obj -c E:\\0_GitRepository\\CppTest\\src\\main.cpp",
+  "file": "E:/0_GitRepository/CppTest/src/main.cpp"
+},
+{
+  "directory": "E:/0_GitRepository/CppTest/build",
+  "command": "g++ -DDEBUG @CMakeFiles/chess.dir/includes_CXX.rsp  -std=c++11  -O3 -Wall -o CMakeFiles\\chess.dir\\src\\utils.cpp.obj -c E:\\0_GitRepository\\CppTest\\src\\utils.cpp",
+  "file": "E:/0_GitRepository/CppTest/src/utils.cpp"
+}
+]
